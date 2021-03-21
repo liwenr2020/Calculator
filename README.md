@@ -16,4 +16,4 @@ ScriptEngineManager maneger = new ScriptEngineManager(); ScriptEngine engine = m
 
 但是后面这个计算器在真机上一直出现闪退的情况，clear也不行，我还没有解决，后面解决了我会更新说明问题） 
 
-郭老师，我真的尽力了！！！
+郭老师，我尽力了，但是我在交作业前可能真的解决不了这个问题！！！
